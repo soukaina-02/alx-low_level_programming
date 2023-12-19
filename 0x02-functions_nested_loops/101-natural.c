@@ -1,8 +1,3 @@
-/*
- * File: 101-natural.c
- * Auth: vincent kip
- */
-
 #include <stdio.h>
 
 /**
@@ -24,3 +19,4 @@ int main(void)
 	printf("%d\n", sum);
 
 	return (0);
+}
